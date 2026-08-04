@@ -1,0 +1,10 @@
+{
+  "N_simulations": 10000,
+  "Mean_USD_kWh": 121.4,
+  "Median_USD_kWh": 119.5,
+  "Std_USD_kWh": 17.4,
+  "P5_USD_kWh": 96.5,
+  "P25_USD_kWh": 109.5,
+  "P75_USD_kWh": 131.3,
+  "P95_USD_kWh": 152.6
+}

@@ -1,0 +1,8 @@
+Evidence_Item,Status,Consequence,Permitted_Use
+TIS function definitions,Available,"Analytical questions can be defined",Conceptual framework only
+Aggregate author-coded labels,Available as legacy file,"Score construction and decimal precision are unsupported",Provenance record only
+Raw indicator records,Not archived,"Claims cannot be independently reproduced",Not permitted
+Search strategy and inclusion criteria,Not archived,"Selection cannot be audited",Not permitted
+Codebook weights and normalization,Not archived,"Scores cannot be reconstructed",Not permitted
+Independent coding and reliability,Not conducted,"Coder dependence is unknown",Not permitted
+Stakeholder or expert elicitation,Not conducted,"No empirical basis for commercial or policy inference",Not permitted
